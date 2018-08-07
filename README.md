@@ -34,17 +34,18 @@ scikit-learn
 You will also need to have software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
-Run
 
-Code Files- Data Files
+Data
 
-Simple Linear Regression.ipynb- Salary_Data.csv
+Social_Network_Ads.csv contains data of 401 users of a social networking site 
 
-Multiple Linear Regression.ipynb- 50_Startups.csv
+Task
 
-polynomial_regression.ipynb- Position_Salaries.csv
+Create a model to determine whether the a customer will buy the product or not
 
-Decision Tree Regresession.ipynb- Position_Salaries.csv
 
-random_forest_regression.ipynb- Position_Salaries.csv
+
+
+
+
 

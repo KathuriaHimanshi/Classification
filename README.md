@@ -4,19 +4,19 @@ Unlike regression where you predict a continuous number, you useclassification t
 
 `In this Repo, we will implement the following Machine Learning Classification models:`
 
-#### 1.  Logistic Regression
+#### 1.  [Logistic Regression](https://github.com/KathuriaHimanshi/Classification/blob/master/Logistic%20Regression.ipynb)
 
-#### 2. K-Nearest Neighbors (K-NN)
+#### 2. [K-Nearest Neighbors (K-NN)](https://github.com/KathuriaHimanshi/Classification/blob/master/K-NN.ipynb)
 
-#### 3. Support Vector Machine (SVM)
+#### 3. [Support Vector Machine (SVM)](https://github.com/KathuriaHimanshi/Classification/blob/master/svm.ipynb)
 
-#### 4. Kernel SVM
+#### 4. [Kernel SVM](https://github.com/KathuriaHimanshi/Classification/blob/master/kernel_svm.ipynb)
 
-#### 5. Naive Bayes
+#### 5. [Naive Bayes](https://github.com/KathuriaHimanshi/Classification/blob/master/naive_bayes.ipynb)
 
-#### 6. Decision Tree Classification
+#### 6. [Decision Tree Classification](https://github.com/KathuriaHimanshi/Classification/blob/master/decision_%20tree_Class.ipynb)
 
-#### 7. Random Forest Classification
+#### 7. [Random Forest Classification](https://github.com/KathuriaHimanshi/Classification/blob/master/Random%20Forest.ipynb)
 
 ### Install
 

@@ -41,7 +41,7 @@ Social_Network_Ads.csv contains data of 401 users of a social networking site
 
 Task
 
-Create a model to determine whether the a customer will buy the product or not
+Create a model to determine whether a customer will buy the product or not
 
 
 
